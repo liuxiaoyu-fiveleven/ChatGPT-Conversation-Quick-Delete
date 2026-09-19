@@ -5,7 +5,7 @@
 
 **Privacy Policy**
 
-<sup>**Data Collection and Use:** ChatGPT Quick Delete collects no personal data. It reads conversation links and deletion controls on ChatGPT pages solely to add a quick-delete button and carry out the user’s click. All processing is local to the browser; the extension stores no user data and transmits none to external servers. ChatGPT’s own deletion controls handle the requested deletion.</sup>
+<sup>**Data Collection and Use:** ChatGPT Quick Delete collects no personal data. It accesses chat list elements and ChatGPT’s deletion controls solely to add a quick-delete button and trigger ChatGPT’s own deletion action when the user clicks it. All processing happens locally in the browser; no user data is stored or sent to external servers.</sup>
 
 <sup>**Data Sharing and Transfer:** We do not share, sell, or transfer user data to third parties.</sup>
 
