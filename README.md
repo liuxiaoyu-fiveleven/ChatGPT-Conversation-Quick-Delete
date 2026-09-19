@@ -1,17 +1,20 @@
-# ChatGPT-Quick-Delete
-Click the trash icon in the chat list to delete a chat directly.
+# ChatGPT Quick Delete
 
+Click the trash icon in the chat list to instantly delete a chat.
 
+## Privacy Policy
 
+**Local Processing:**  
+The extension processes chat list elements and interface labels locally in your browser to provide the quick deletion feature. No user data is stored locally.
 
-**Privacy Policy**
+**Data Collection and Use:**  
+The extension only accesses the information required to add the delete button functionality. It does not read, store, or transmit conversation content.
 
-<sup>**Local Storage:** No user data is stored locally.</sup>
+**Third-Party Sharing/Transfer:**  
+No user data is sold, shared, or transmitted to any third party.
 
-<sup>**Third-Party Sharing/Transfer:** No data is sold, shared, or transmitted.</sup>
+**Limited Use:**  
+Any data accessed by this extension is used only to provide its core functionality and complies with the Chrome Web Store User Data Policy and Limited Use requirements.
 
-<sup>**Limited Use:** Any user data accessed by this extension is used only to provide the extension's core functionality and complies with the Chrome Web Store User Data Policy and Limited Use requirements.</sup>
-
-<sup>**Data Collection and Use:** The extension locally processes chat list links and interface labels solely to provide quick deletion. It does not access conversation content or collect personal data.</sup>
-
-<sup>**Contact:** liuxiaoyu.fiveleven@gmail.com</sup>
+**Contact:**  
+liuxiaoyu.fiveleven@gmail.com
